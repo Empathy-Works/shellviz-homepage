@@ -44,7 +44,7 @@
     "truncate": "^2.1.0",
     "underscore": "^1.8.3",
     "uuid": "^2.0.2",
-    "webpack": "^2.7.0",
+    "webpack": "^5.75.0",
     "webshot": "^0.18.0",
     "ws": "^3.0.0"
   },
